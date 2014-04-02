@@ -1,0 +1,13 @@
+#Script per lo scraping degli annunci immobiliari pubblicati su subito.it
+#2 Aprile 2014
+
+
+#Lo script è stato sviluppato sulla piattaforma Scraperwiki ed è stato condiviso 
+#successivamente qui in modo da renderlo pubblico.
+
+#Può essere utilizzato semplicemente copiando e incollando il codice all'interno dell'editor 
+#di scraperwiki. Se volete utilizzare lo script al di fuori di scraperwiki va tenuto presente 
+#che probabilmente vanno installati:
+
+#https://github.com/scraperwiki/scraperwiki-python
+#https://github.com/redapple/parslepy
